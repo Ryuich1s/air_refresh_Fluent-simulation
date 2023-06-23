@@ -1,0 +1,19 @@
+Node 0 Fatal signal raised sig = Segmentation fault
+ 94f13010 CX_Primitive_Error
+ 20c1b8f0 log2f
+ 94fb5a20 logical_right_shift
+ 4b4ef20 _C_specific_handler
+ 23493bd0 _chkstk
+ 2340d9c0 RtlFindCharInUnicodeString
+ 23492cc0 KiUserExceptionDispatcher
+ 94f19010 CX_Surface_Centroid_Normal
+ 92058ae0 transfer_files_to_tmp_directory
+ 94fa0250 eval
+ 92167e50 PRF_Command_Start
+ 9216a570 PRF_Node_repl
+ 92175fc0 Delay_Error
+ 94fb5a20 logical_right_shift
+ 226c2690 BaseThreadInitThunk
+ 2344a9d0 RtlUserThreadStart
+
+Error [node 0] [time 6/2/23 23:0:2] Abnormal Exit!
